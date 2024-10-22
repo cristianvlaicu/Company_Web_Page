@@ -1,3 +1,5 @@
+    # Vamos a crear una página web de una empresa con múltiples páginas dentro, Home y otra que sea un formulario que rellene el usuario y nos llegue a nosotros un email como ese formulario.
+
 import streamlit as st
 import pandas
 
